@@ -66,8 +66,6 @@ In addition, the database contains a complex stored procedure called "p03_genera
 - Event "e01_execute_regular_transactions" then executes these transactions (inserts into "transactions") each month on their due days.
 <img width="1013" height="473" alt="Regular transactions" src="https://github.com/user-attachments/assets/a9b2a35b-e741-499c-8c46-5c35268f9c35" />
 <br/>
-<br/>
-<br/>
 
 # Stored Routines
 - This is just a glimpse of the different stored routines used in the model.
