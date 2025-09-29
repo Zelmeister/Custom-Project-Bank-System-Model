@@ -69,22 +69,18 @@ In addition, the database contains a complex stored procedure called "p03_genera
 <br/>
 <br/>
 
-## Stored Routines
+# Stored Routines
 - This is just a glimpse of the different stored routines used in the model.
 - For a more detailed explanation of each of these, access the "bank_system_script.sql" file.
 <br/>
-<br/>
-<br/>
 
-# Triggers
+## Triggers
 <img width="685" height="367" alt="Triggers" src="https://github.com/user-attachments/assets/9c1855f0-773e-4dbf-acff-9115f8c6d383" />
 <br/>
-<br/>
 
-# Stored Procedures
+## Stored Procedures
 <img width="363" height="106" alt="Procedures" src="https://github.com/user-attachments/assets/d32daa5b-8c76-4087-b456-d681f3869083" />
 <br/>
-<br/>
 
-# Events
+## Events
 <img width="1009" height="67" alt="Events" src="https://github.com/user-attachments/assets/754830b3-ceb8-4fa6-a8db-7e01044a6842" />
