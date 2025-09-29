@@ -69,7 +69,7 @@ In addition, the database contains a complex stored procedure called "p03_genera
 
 # Stored Routines
 - This is just a glimpse of the different stored routines used in the model.
-- For a more detailed explanation of each of these, access the "bank_system_script.sql" file.
+- For a more detailed explanation of each of these access the "bank_system_script.sql" file.
 <br/>
 
 ## Triggers
