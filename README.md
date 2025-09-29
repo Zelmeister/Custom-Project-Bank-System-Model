@@ -4,3 +4,27 @@ This project is still a WORK IN PROGRESS. It is a simplified model of a bank dat
 The database is equiped with multiple mechanisms like triggers, procedures and events that simplify data entry, ensure data consistency and prevent violations of internal rules of the bank.
 
 In addition, the database contains a complex stored procedure called "p03_generate_new_client", which populates the tables in the database with mock data on a single client, along with their personal data, accounts as well as regular transactions. The generated data will be eventually used for analysis and data visualizations.
+
+<img width="1135" height="451" alt="Clients" src="https://github.com/user-attachments/assets/93b66954-cfae-4e8a-add9-500f5caa1c45" />
+<br/>
+<br/>
+<br/>
+
+<img width="765" height="451" alt="Accounts" src="https://github.com/user-attachments/assets/b554a0a7-1616-4aa7-b924-59b190dc0615" />
+<br/>
+<br/>
+<br/>
+
+<img width="1375" height="451" alt="Transactions" src="https://github.com/user-attachments/assets/e76297a9-db49-4399-85da-ad8d96fccbac" />
+<br/>
+<br/>
+<br/>
+
+<img width="326" height="473" alt="Categories" src="https://github.com/user-attachments/assets/6b9a0d14-870e-48cf-9657-1bc9391b6360" />
+<br/>
+<br/>
+<br/>
+
+<img width="1013" height="473" alt="Regular transactions" src="https://github.com/user-attachments/assets/a9b2a35b-e741-499c-8c46-5c35268f9c35" />
+
+
