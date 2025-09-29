@@ -65,5 +65,26 @@ In addition, the database contains a complex stored procedure called "p03_genera
 - This table contains data on regular transactions (salaries, pensions, mortgage payments, rent payments, etc.) of generated clients.
 - Event "e01_execute_regular_transactions" then executes these transactions (inserts into "transactions") each month on their due days.
 <img width="1013" height="473" alt="Regular transactions" src="https://github.com/user-attachments/assets/a9b2a35b-e741-499c-8c46-5c35268f9c35" />
+<br/>
+<br/>
+<br/>
 
+## Stored Routines
+- This is just a glimpse of the different stored routines used in the model.
+- For a more detailed explanation of each of these, access the "bank_system_script.sql" file.
+<br/>
+<br/>
+<br/>
 
+# Triggers
+<img width="685" height="367" alt="Triggers" src="https://github.com/user-attachments/assets/9c1855f0-773e-4dbf-acff-9115f8c6d383" />
+<br/>
+<br/>
+
+# Stored Procedures
+<img width="363" height="106" alt="Procedures" src="https://github.com/user-attachments/assets/d32daa5b-8c76-4087-b456-d681f3869083" />
+<br/>
+<br/>
+
+# Events
+<img width="1009" height="67" alt="Events" src="https://github.com/user-attachments/assets/754830b3-ceb8-4fa6-a8db-7e01044a6842" />
