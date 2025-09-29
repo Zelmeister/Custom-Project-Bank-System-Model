@@ -13,7 +13,7 @@ In addition, the database contains a complex stored procedure called "p03_genera
   - Birth dates are generated in a way that follows the real age distribution in Slovakia
   - Email is generated based on the previous three pieces of data
   - The procedure prevents and corrects common errors in the email address and the phone number, such as invalid characters or incorrect format.
--   In the city column you can find 175 biggest Slovak municipalities in terms of population, which is also reflected in weights of the random selection
+  - In the city column you can find 175 biggest Slovak municipalities in terms of population, which is also reflected in weights of the random selection
 
 <img width="1135" height="451" alt="Clients" src="https://github.com/user-attachments/assets/93b66954-cfae-4e8a-add9-500f5caa1c45" />
 <br/>
